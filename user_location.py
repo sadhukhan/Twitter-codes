@@ -12,10 +12,10 @@ consumer_secret= ''
 access_token=''
 access_token_secret=''
 """
-consumer_key= '62y9hnX30JlrbovXqY1T9M1Jx'								#new app
-consumer_secret= 'juiMNSLqi47qM9ki2Tm3g1BSqUGrW4F8CGXiw2xxZCv3PuTL8y'
-access_token='830093111518859264-OxX72bpsVpRLHQ6kEiqubyPCcvPECsl'
-access_token_secret='fd9N4Ho6rGtjax9EQ8RmwaVfdTzEFFMpgbvmUZaI59I6Z'
+consumer_key= ''								#new app
+consumer_secret= ''
+access_token='-'
+access_token_secret=''
 
 
 # authenticate
