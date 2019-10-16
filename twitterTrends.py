@@ -9,10 +9,10 @@ from tweepy import OAuthHandler
 import json
 
 
-consumer_key= '6ZJVdYdnhCLBEwKDZ9dECw6ks'
-consumer_secret= 'WicOgUJ0NYIG6RBRHpaHzKfTvLdSel6zIl2i8nwjO0ofxtiPvH'
-access_token='830093111518859264-JGuVO1i94kJDtc7XtimHXF3tYvyJ3wh'
-access_token_secret='NHNgmHrP3qDMnggnv1AKJA0lAzZ6FnRWjRx0PsAT4wEZJ'
+consumer_key= ''
+consumer_secret= ''
+access_token='-'
+access_token_secret=''
 #boilerplate 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
